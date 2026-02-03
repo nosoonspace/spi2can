@@ -7,7 +7,7 @@
 #include "usart.h"
 #include "can.h"
 
-
+//启动
 spi_data_t spi_data; // 发给UPbaord的状态数据
 spi_command_t spi_command; // 从UPbaord接收的指令数据
 uint8_t in1, in2, out;
