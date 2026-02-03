@@ -1,0 +1,23 @@
+# --- Keil 编译产生的垃圾文件 ---
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.htm
+*.dep
+*.build_log.htm
+*.lnp
+*.sct
+*.axf
+*.hex
+*.bin
+*.iex
+
+# --- 备份文件 ---
+*.Bak
+*.bak
+
+# --- 编辑器相关 ---
+.vscode/
+.history/
